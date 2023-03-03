@@ -3,7 +3,7 @@ project_name
 
 learning cookiecutter
 
-Project Organization
+Project  Organization
 ------------
 
     ├── LICENSE
